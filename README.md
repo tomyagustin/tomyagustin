@@ -4,9 +4,8 @@
 **tomyagustin/tomyagustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-I’m studying programming at the Universidad Tecnológica Nacional (UTN).
 -->
+I’m studying programming at the Universidad Tecnológica Nacional (UTN).
 
 ![](https://www.lavoz.com.ar/resizer/9DvCUG7gefuQi8BuK1Vk2X0oAsA=/1023x323/smart/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 
