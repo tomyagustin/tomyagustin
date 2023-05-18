@@ -12,7 +12,6 @@ I’m studying programming at the Universidad Tecnológica Nacional (UTN).
 Lenguaje and tools
 
 ![image](https://user-images.githubusercontent.com/98592322/212486212-cb2cb80f-d1b6-49aa-9c9c-3ac6e2a72edb.png)
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png)
 
 Contact
 
