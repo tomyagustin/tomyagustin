@@ -19,4 +19,4 @@ tomyagustin1725@gmail.com
 
 LinkedIn
 
-https://www.linkedin.com/in/tom%C3%A1s-agust%C3%ADn-388015248/
+https://www.linkedin.com/in/tom%C3%A1s-agust%C3%ADn-388015248/](https://www.linkedin.com/in/tomasagustin/
